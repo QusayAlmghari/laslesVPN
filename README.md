@@ -34,5 +34,5 @@
     git clone <https://github.com/QusayAlmghari/laslesVPN>
     ```
 2.  **فتح الملف:**
-    افتح ملف `home.html` في متصفح الويب المفضل لديك.
+    افتح ملف `index.html` في متصفح الويب المفضل لديك.
 
